@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-
+----
 <div align="center">
 <table>
 <tr>
@@ -30,6 +30,13 @@
 <i><b>Olá</b> :wave:, meu nome é <code>João Prado</code>, tenho 23 anos, atualmente moro em Belo Horizonte e estou no meu segundo semestre do curso de Engenharia de Software na <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.</i> :man_teacher:
 </div
 
+----
+
+<img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/soulgem.svg?raw=true"/>Sobre mim:
+
+<div align="justify">
+Meu nome é João Prado sou nascido e criado em Belo Horizonte, tenho 23 anos e atualmente sou Estudante de Engenharia de Software na Puc Minas. Dos meus 11 aos 22 anos dediquei minha vida a uma outra carreira: atleta profissional de basquete. O basquete me proporcionou as melhores experiências da minha vida, desde sair de casa aos 16 anos para me mudar para São Paulo atrás dos meus sonhos até disputar o maior nivel de basquete da América Latina e viajar para o exterior. Além desses momentos o esporte foi essencial para moldar meu caráter e meu jeito de levar a vida, com muito esforço e disciplina e é dessa forma que levo essa mudança de trajetória. Acabei de iniciar meu segundo período e sigo aprendendo cada vez mais, um dia de cada vez. Tenho interesse principalmente na área de backend e dados.
+</div>
 <!--
 **Joao-Prado0/Joao-Prado0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
