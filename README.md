@@ -32,7 +32,7 @@
 
 ----
 
-<div>
+<div align="center>
 
 <img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/skills.svg?raw=true"/>&nbsp;Linguagens e ferramentas:
 
