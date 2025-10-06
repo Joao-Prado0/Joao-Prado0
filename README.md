@@ -25,6 +25,7 @@
 </tr> 
 </table>
 
+----
 </div>
 <div align="justify">
 <i><b>Olá</b> :wave:, meu nome é <code>João Prado</code>, tenho 23 anos, atualmente moro em Belo Horizonte e estou no meu segundo semestre do curso de Engenharia de Software na <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.</i> :man_teacher:
