@@ -36,39 +36,39 @@
 
 <img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/skills.svg?raw=true"/>&nbsp;Linguagens e ferramentas:
 
-<code><a href="https://www.python.org/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/python.png?raw=true"/></a></code>
+<code><a href="https://www.python.org/" target="_blank"><img width="46" height="46" src="https://joaopauloaramuni.github.io/image/python.png?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/c.png?raw=true"/></a></code>
+<code><a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank"><img width="46" height="46" src="https://joaopauloaramuni.github.io/image/c.png?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://isocpp.org/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/cpp.svg?raw=true"/></a></code>
+<code><a href="https://isocpp.org/" target="_blank"><img width="46" height="46" src="https://joaopauloaramuni.github.io/image/cpp.svg?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://www.java.com/pt-BR/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/java.png?raw=true"/></a></code>
+<code><a href="https://www.java.com/pt-BR/" target="_blank"><img width="46" height="46" src="https://joaopauloaramuni.github.io/image/java.png?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://spring.io/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/spring.png?raw=true"/></a></code>
+<code><a href="https://spring.io/" target="_blank"><img width="46" height="46" src="https://joaopauloaramuni.github.io/image/spring.png?raw=true"/></a></code>
 &nbsp;
-<code><a href="https://www.w3schools.com/html/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/html.svg?raw=true"/></a></code>
+<code><a href="https://www.w3schools.com/html/" target="_blank"><img width="46" height="46" src="https://joaopauloaramuni.github.io/image/html.svg?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://www.w3schools.com/css/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/css.svg?raw=true"/></a></code>
+<code><a href="https://www.w3schools.com/css/" target="_blank"><img width="46" height="46" src="https://joaopauloaramuni.github.io/image/css.svg?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://www.w3schools.com/js/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/js.png?raw=true"/></a></code>
+<code><a href="https://www.w3schools.com/js/" target="_blank"><img width="46" height="46" src="https://joaopauloaramuni.github.io/image/js.png?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://pt-br.reactjs.org/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/react.png?raw=true"/></a></code>
+<code><a href="https://pt-br.reactjs.org/" target="_blank"><img width="46" height="46" src="https://joaopauloaramuni.github.io/image/react.png?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://www.mysql.com/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/mysql.png?raw=true"/></a></code>
+<code><a href="https://www.mysql.com/" target="_blank"><img width="46" height="46" src="https://joaopauloaramuni.github.io/image/mysql.png?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://nodejs.org/en/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/nodejs.png?raw=true"/></a></code>
+<code><a href="https://nodejs.org/en/" target="_blank"><img width="46" height="46" src="https://joaopauloaramuni.github.io/image/nodejs.png?raw=true"/></a></code>
 &nbsp;
-<code><a href="https://fastapi.tiangolo.com/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/fastapi.svg?raw=true"/></a></code>
+<code><a href="https://fastapi.tiangolo.com/" target="_blank"><img width="46" height="46" src="https://joaopauloaramuni.github.io/image/fastapi.svg?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://aws.amazon.com/pt/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/aws.png?raw=true"/></a></code>
+<code><a href="https://aws.amazon.com/pt/" target="_blank"><img width="46" height="46" src="https://joaopauloaramuni.github.io/image/aws.png?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://www.postman.com/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/postman.png?raw=true"/></a></code>
+<code><a href="https://www.postman.com/" target="_blank"><img width="46" height="46" src="https://joaopauloaramuni.github.io/image/postman.png?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://git-scm.com/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/git.png?raw=true"/></a></code>
+<code><a href="https://git-scm.com/" target="_blank"><img width="46" height="46" src="https://joaopauloaramuni.github.io/image/git.png?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://code.visualstudio.com/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/vs.png?raw=true"/></a></code>
+<code><a href="https://code.visualstudio.com/" target="_blank"><img width="46" height="46" src="https://joaopauloaramuni.github.io/image/vs.png?raw=true"/></a></code>
 &nbsp;
-<code><a href="https://www.jetbrains.com/idea/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/intellij.png?raw=true"/></a></code>
+<code><a href="https://www.jetbrains.com/idea/" target="_blank"><img width="46" height="46" src="https://joaopauloaramuni.github.io/image/intellij.png?raw=true"/></a></code>
 &nbsp;
 </div>
 
